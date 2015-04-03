@@ -75,7 +75,7 @@ Default options object for video.js auto setup is shown below.
 embraced by double quotations.
 
 
-## Video	Live
+## Live Video
 
 Coming soon
 
